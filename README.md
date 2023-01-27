@@ -61,8 +61,8 @@ API DataSwap is an MIT-licensed open source project. It can grow thanks to the s
 ## Stay in touch
 
 - Authors 
-  - - [Alex Ribeiro](https://alexribeiro.com.br)
-  - - [Victor Mangabeiro](https://github.com/victormangabeiro)
+  - [Alex Ribeiro](https://alexribeiro.com.br)
+  - [Victor Mangabeiro](https://github.com/victormangabeiro)
 
 ## License
 
